@@ -1,1 +1,1 @@
-# C-Users-lenovo-Downloads-Pneumonia-detection-using-CNN
+Pneumonia-detection-using-CNN
